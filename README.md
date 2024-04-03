@@ -1,9 +1,14 @@
-### *Olá, somos a Mundo dos Sites!*
- <img src="https://mundodossitesoficial.netlify.app/logomarcaoficial.png" alt="Mundo dos Sites" width="300" style="text-align: center;">
+<h3 align="center">
+   Olá, somos a Mundo dos Sites!
+</h3>
+
+<h1 align="center">
+   <img src="https://mundodossitesoficial.netlify.app/logomarcaoficial.png" alt="Mundo dos Sites" width="300">
+</h1>
 
  Somos a **Mundo dos Sites**, especialistas em desenvolvimento web. Nosso objetivo é criar websites impactantes e funcionais para nossos clientes. Combinamos design e programação para proporcionar uma presença online eficaz, tanto no frontend quanto no backend.
 
-#### *Desenvolvemos websites*, tanto na parte de frontend quanto de backend.
+#### *Desenvolvemos websites, tanto na parte de frontend quanto de backend.*
 
 ### Frontend
 
