@@ -1,29 +1,18 @@
-# Bem-vindo à Mundo dos Sites
+# Olá, somos a Mundo dos Sites!
+ <img src="https://mundodossitesoficial.netlify.app/logo.png" alt="Mundo dos Sites" width="70">
 
-Olá! Nós somos a Mundo dos Sites, uma equipe dedicada ao desenvolvimento de websites incríveis. Trabalhamos tanto no backend quanto no frontend para criar experiências digitais que cativam e encantam nossos clientes e usuários.
+Desenvolvemos websites, tanto na parte de frontend quanto de backend.
 
-## Sobre Nós
+## Adicionando Imagens Personalizadas - Frontend
 
-Somos uma equipe de desenvolvedores apaixonados por tecnologia e design. Nosso objetivo é fornecer soluções sob medida para as necessidades de nossos clientes, combinando conhecimento técnico com criatividade.
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" alt="Ícone 1" width="70">
+    <img src="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" alt="Ícone 2" width="70">
+    <img src="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" alt="Ícone 3" width="70">
+</div>
 
-## O que Fazemos
+## Adicionando Imagens Personalizadas - Backend
 
-- **Desenvolvimento de Websites**: Criamos websites personalizados para empresas de todos os tamanhos e setores.
-  
-- **Backend e Frontend**: Trabalhamos tanto no backend (servidor, banco de dados, lógica de negócios) quanto no frontend (interface do usuário, design, interatividade).
-
-- **Consultoria em Tecnologia**: Oferecemos consultoria especializada em tecnologia para ajudar nossos clientes a tomar decisões informadas sobre seus projetos digitais.
-
-## Adicionando Imagens
-
-Você pode adicionar links para imagens em nosso arquivo README.md para ilustrar nossos projetos e serviços. Aqui está um exemplo de como fazer isso:
-
-![Exemplo de Projeto](link_para_a_imagem)
-
-## Entre em Contato
-
-Estamos sempre prontos para colaborar em novos projetos e oportunidades. Entre em contato conosco para saber mais sobre como podemos ajudar sua empresa a ter sucesso online.
-
-Email: info@mundodossites.com
-Telefone: +55 (XX) XXXX-XXXX
-Website: [www.mundodossites.com](https://www.mundodossites.com)
+<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" alt="Ícone 4" width="70">
+</div>
