@@ -6,8 +6,9 @@
    <img src="https://mundodossitesoficial.netlify.app/logomarcaoficial.png" alt="Mundo dos Sites" width="300">
 </h1>
 
-## Licença
+![MUNDOS DOS SITES](https://github-readme-stats.vercel.app/api?username=MKATIVA&show_icons=true&theme=radical)
 
+## Licença
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mundodossitesoficial.netlify.app) ![Static Badge](https://img.shields.io/badge/html-conhecimento-red) ![Static Badge](https://img.shields.io/badge/css-estiliza%C3%A7%C3%A3o-blue)
 
