@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-   <img src="https://mundodossitesoficial.netlify.app/logomarcaoficial.png" alt="Mundo dos Sites" width="300">
+   <img src="[https://mundodossitesoficial.netlify.app/logomarcaoficial.png]([https://mundodossites.netlify.app/logomarcaoficial.png](https://mundodossites.netlify.app/logomarcaoficial.png))" alt="Mundo dos Sites" width="300">
 </h1>
 
 [![License: MIT](https://img.shields.io/badge/Siga--nos%20-%20Instagram-8A2BE2)](https://mundodossitesoficial.netlify.app)
