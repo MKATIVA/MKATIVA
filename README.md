@@ -1,44 +1,257 @@
-<h3 align="center">
-   Olá, somos a Mundo dos Sites!
-</h3>
+<div align="center">
 
-<h1 align="center">
-   <img src="[https://mundodossitesoficial.netlify.app/logomarcaoficial.png]([https://mundodossites.netlify.app/logomarcaoficial.png](https://mundodossites.netlify.app/logomarcaoficial.png))" alt="Mundo dos Sites" width="300">
-</h1>
+# 🌐 MUNDO DOS SITES
 
-[![License: MIT](https://img.shields.io/badge/Siga--nos%20-%20Instagram-8A2BE2)](https://mundodossitesoficial.netlify.app)
-[![License: MIT](https://img.shields.io/badge/Siga--nos%20-%20Youtube-red)](https://mundodossitesoficial.netlify.app)
-[![License: MIT](https://img.shields.io/badge/Siga--nos%20-%20Facebook-blue)](https://mundodossitesoficial.netlify.app)
+### Transformando ideias em soluções digitais.
 
-![MUNDOS DOS SITES](https://github-readme-stats.vercel.app/api?username=MKATIVA&show_icons=true&theme=radical)
+<p>
+  <strong>Desenvolvimento Web • Sistemas • Aplicativos • Soluções Digitais</strong>
+</p>
 
-## Licença
+<img src="SUA_LOGOMARCA_AQUI" alt="Mundo dos Sites" width="280">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mundodossitesoficial.netlify.app)
+<br>
 
-### Sobre Nós
- Somos a **Mundo dos Sites**, especialistas em desenvolvimento web. Nosso objetivo é criar websites impactantes e funcionais para nossos clientes. Combinamos design e programação para proporcionar uma presença online eficaz, tanto no frontend quanto no backend.
+<a href="SEU_SITE">
+  <img src="https://img.shields.io/badge/Website-Visitar%20Site-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="SEU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-Siga--nos-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="SEU_YOUTUBE">
+  <img src="https://img.shields.io/badge/YouTube-Siga--nos-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="SEU_FACEBOOK">
+  <img src="https://img.shields.io/badge/Facebook-Siga--nos-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 
-#### *Desenvolvemos websites, tanto na parte de frontend quanto de backend.*
-
-### Frontend
-
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-    <img src="https://camo.githubusercontent.com/3d0ddeed2c709ed1cbce62a9c624d0f719d5ed695567a2eef03d61a70c7ff336/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667" alt="Ícone 1" width="50">
-    <img src="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667" alt="Ícone 2" width="50">
-    <img src="https://camo.githubusercontent.com/3902a23a4ee524225c3626a76a19391fe4a457e9c70e331e7d51abdfa1d76dbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667" alt="Ícone 3" width="50">
 </div>
 
-### Backend
+---
 
-<div>
-    <img src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" alt="Ícone 4" width="50">
+## 🚀 Sobre a Mundo dos Sites
+
+A **Mundo dos Sites** é especializada no desenvolvimento de **sites, sistemas e soluções digitais modernas**, unindo tecnologia, design e experiência do usuário.
+
+Nosso propósito é transformar ideias em produtos digitais **profissionais, funcionais, rápidos e preparados para crescer**.
+
+> **Do frontend ao backend, criamos tecnologia para transformar negócios.**
+
+---
+
+## 💻 Tecnologias
+
+### 🎨 Frontend
+
+<div align="center">
+
+|            Tecnologia            |       Tecnologia       |      Tecnologia      |
+| :------------------------------: | :--------------------: | :------------------: |
+| ![JavaScript](IMAGEM_JAVASCRIPT) | ![HTML5](IMAGEM_HTML5) | ![CSS3](IMAGEM_CSS3) |
+|          **JavaScript**          |        **HTML5**       |       **CSS3**       |
+
 </div>
 
-### Serviços
-<div>
-    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/03/CppLogo.svg" alt="Ícone 4" width="50">
-   <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" alt="Ícone 4" width="50">
-   <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Ícone 4" width="50">
+### ⚙️ Backend
+
+<div align="center">
+
+|         Tecnologia        |
+| :-----------------------: |
+| ![Node.js](IMAGEM_NODEJS) |
+|        **Node.js**        |
+
 </div>
 
+---
+
+## 🛠️ Serviços
+
+<div align="center">
+
+|      🌐 Websites     |    📱 Aplicativos   |      ⚙️ Sistemas      |
+| :------------------: | :-----------------: | :-------------------: |
+|  Sites profissionais |     Apps Android    |      Sistemas Web     |
+|     Landing Pages    |  Aplicações mobile  | Sistemas empresariais |
+| Sites institucionais | Interfaces modernas |       Dashboards      |
+
+</div>
+
+### Outras Tecnologias
+
+<div align="center">
+
+<img src="IMAGEM_CPP" width="55" alt="C++">
+&nbsp;&nbsp;&nbsp;
+<img src="IMAGEM_FLUTTER" width="55" alt="Flutter">
+&nbsp;&nbsp;&nbsp;
+<img src="IMAGEM_NETLIFY" width="55" alt="Netlify">
+
+<br><br>
+
+<strong>C++   •   Flutter   •   Netlify</strong>
+
+</div>
+
+---
+
+## 📦 O que Desenvolvemos
+
+<div align="center">
+
+| Categoria         | Soluções                                       |
+| :---------------- | :--------------------------------------------- |
+| 🌐 **Web**        | Websites, Landing Pages e Portais              |
+| 🛒 **E-commerce** | Lojas virtuais e plataformas de vendas         |
+| 📊 **Sistemas**   | Sistemas administrativos e empresariais        |
+| 📱 **Mobile**     | Aplicativos Android e soluções multiplataforma |
+| 🎨 **UI/UX**      | Interfaces modernas e experiências intuitivas  |
+| 🔌 **Backend**    | APIs, bancos de dados e integrações            |
+| ☁️ **Deploy**     | Hospedagem, publicação e gerenciamento         |
+| 🔄 **Tempo Real** | Sistemas com sincronização de dados            |
+
+</div>
+
+---
+
+## 📱 Desenvolvimento Multiplataforma
+
+Criamos aplicações preparadas para diferentes ambientes e dispositivos.
+
+<div align="center">
+
+<img src="IMAGEM_FLUTTER" width="65" alt="Flutter">
+&nbsp;&nbsp;
+<img src="IMAGEM_ANDROID" width="65" alt="Android">
+&nbsp;&nbsp;
+<img src="IMAGEM_WINDOWS" width="65" alt="Windows">
+&nbsp;&nbsp;
+<img src="IMAGEM_JAVASCRIPT" width="65" alt="JavaScript">
+
+<br><br>
+
+**Android • Windows • Web • Multiplataforma**
+
+</div>
+
+---
+
+## ✨ Nosso Diferencial
+
+<div align="center">
+
+### ⚡ Performance
+
+Aplicações rápidas e eficientes.
+
+### 🔒 Segurança
+
+Desenvolvimento pensando na proteção dos dados.
+
+### 📱 Responsividade
+
+Experiência adaptada para diferentes telas.
+
+### 🎨 Design
+
+Interfaces modernas, organizadas e profissionais.
+
+### 🚀 Escalabilidade
+
+Projetos preparados para acompanhar o crescimento.
+
+### 🔄 Integração
+
+Soluções conectadas e preparadas para trabalhar em tempo real.
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MKATIVA&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="Estatísticas do GitHub">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKATIVA&layout=compact&theme=radical&hide_border=true&border_radius=12" alt="Principais linguagens">
+
+</div>
+
+---
+
+## 🌎 Nossa Visão
+
+> **Tecnologia não precisa ser complicada.**
+>
+> Criamos soluções digitais pensadas para serem **simples de usar, bonitas, rápidas e eficientes**.
+
+---
+
+## 📌 Projetos
+
+<div align="center">
+
+**Em constante desenvolvimento.**
+
+Novos projetos, sistemas e soluções digitais estão sendo desenvolvidos pela **Mundo dos Sites**.
+
+</div>
+
+---
+
+## 📞 Entre em Contato
+
+<div align="center">
+
+<a href="SEU_SITE">
+  <img src="https://img.shields.io/badge/🌐%20Website-Mundo%20dos%20Sites-111827?style=for-the-badge">
+</a>
+
+<a href="SEU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="SEU_YOUTUBE">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="SEU_FACEBOOK">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 MUNDO DOS SITES
+
+**Desenvolvendo o futuro através da tecnologia.**
+
+<br>
+
+<img src="SUA_LOGOMARCA_AQUI" alt="Mundo dos Sites" width="180">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Development-Web%20%26%20Software-111827?style=flat-square">
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square">
+<img src="https://img.shields.io/badge/License-MIT-FACC15?style=flat-square">
+
+</div>
+
+---
+
+## 📄 Licença
+
+Este projeto está disponibilizado sob a **Licença MIT**.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+
+</div>
