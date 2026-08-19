@@ -32,10 +32,6 @@ Nosso objetivo é transformar ideias em produtos digitais de qualidade, criando 
 
 ### 🎨 Frontend
 
-## 💻 Tecnologias
-
-### 🎨 Frontend
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5">
   &nbsp;&nbsp;
