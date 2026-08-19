@@ -37,7 +37,7 @@
 
 ### Serviços
 <div>
-    <img src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Ícone 4" width="50">
+    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/03/CppLogo.svg" alt="Ícone 4" width="50">
    <img src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" alt="Ícone 4" width="50">
    <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Ícone 4" width="50">
 </div>
