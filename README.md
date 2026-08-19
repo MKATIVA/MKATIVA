@@ -1,331 +1,163 @@
-<div align="center">
+<h3 align="center">
+  🌐 Olá, somos a <strong>Mundo dos Sites</strong>!
+</h3>
 
-# 🌐 MUNDO DOS SITES
+<p align="center">
+  <strong>Desenvolvimento Web • Design • Sistemas • Soluções Digitais</strong>
+</p>
 
-### Transformando ideias em soluções digitais.
+<p align="center">
+  <img src="https://mundodossites.netlify.app/logomarcaoficial.png" alt="Mundo dos Sites" width="300">
+</p>
 
-**Desenvolvimento Web • Sistemas • Aplicativos • Soluções Digitais**
-
-</div>
-
----
-
-## 🚀 Sobre a Mundo dos Sites
-
-A **Mundo dos Sites** é especializada no desenvolvimento de **sites, sistemas e soluções digitais modernas**, unindo tecnologia, design e experiência do usuário.
-
-Nosso propósito é transformar ideias em produtos digitais **profissionais, funcionais, rápidos, seguros e preparados para crescer**.
-
-> 💡 **Do frontend ao backend, criamos tecnologia para transformar negócios.**
+<p align="center">
+  <a href="https://mundodossitesoficial.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Website-Mundo_dos_Sites-111827?style=for-the-badge" alt="Website">
+  </a>
+</p>
 
 ---
 
-# 💻 Tecnologias
+## 🚀 Sobre Nós
 
-## 🎨 Frontend
+Somos a **Mundo dos Sites**, uma empresa especializada no desenvolvimento de soluções digitais modernas, funcionais e profissionais.
 
-<div align="center">
+Nosso objetivo é transformar ideias em produtos digitais de qualidade, criando **sites, sistemas e aplicações** com foco em desempenho, segurança, responsividade e experiência do usuário.
 
-|  HTML5  |  CSS3  |  JavaScript  |
-| :-----: | :----: | :----------: |
-| `HTML5` | `CSS3` | `JavaScript` |
-
-</div>
-
-**Principais recursos:**
-
-* 🌐 Desenvolvimento de websites
-* 📱 Interfaces responsivas
-* 🎨 Design moderno
-* ⚡ Otimização de desempenho
-* 🧩 Componentização
-* 🔄 Interatividade
-* 📱 Compatibilidade com diferentes dispositivos
+> 💡 **Do frontend ao backend, transformamos ideias em soluções digitais.**
 
 ---
 
-## ⚙️ Backend
+## 💻 Tecnologias
 
-<div align="center">
+### 🎨 Frontend
 
-### Linguagens & Runtime
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
+</p>
 
-| Node.js |  Python |   PHP   |   Java  |    C#   |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-| Backend | Backend | Backend | Backend | Backend |
+### ⚙️ Backend
 
-</div>
-
-### 🔌 APIs & Integrações
-
-* REST API
-* GraphQL
-* WebSocket
-* Socket.IO
-* Webhooks
-* APIs de terceiros
-* Integrações entre sistemas
-* Comunicação em tempo real
-
-### 🗄️ Bancos de Dados
-
-**SQL**
-
-`PostgreSQL` • `MySQL` • `MariaDB` • `SQL Server` • `SQLite`
-
-**NoSQL**
-
-`MongoDB` • `Firebase` • `Redis`
-
-### 🔐 Segurança & Autenticação
-
-* JWT
-* OAuth 2.0
-* Controle de acesso
-* Sistema de permissões
-* Criptografia de senhas
-* API Keys
-* Refresh Tokens
-* HTTPS
-* CORS
-* Rate Limiting
-
-### ⚡ Sistemas em Tempo Real
-
-* WebSocket
-* Socket.IO
-* Firebase Realtime Database
-* Firestore
-* Atualização automática de dados
-* Sincronização entre dispositivos
-* Notificações em tempo real
-
-### 📨 Filas & Processamento
-
-* Redis
-* RabbitMQ
-* Apache Kafka
-* Background Jobs
-* Processamento assíncrono
-* Tarefas automatizadas
-
-### 🧩 Arquitetura
-
-* MVC
-* Clean Architecture
-* Modular Architecture
-* RESTful Architecture
-* Microservices
-* Serverless
-* Event-Driven Architecture
-
-### ☁️ Cloud & Deploy
-
-`Vercel` • `Netlify` • `AWS` • `Azure` • `Google Cloud`
-
-### 🐳 DevOps
-
-`Git` • `GitHub` • `Docker` • `GitHub Actions` • `CI/CD`
-
-### 🧪 Testes & Qualidade
-
-* Testes unitários
-* Testes de integração
-* Testes de API
-* Testes End-to-End
-* Testes automatizados
-* Validação de dados
-* Monitoramento de erros
-
-### 📊 Monitoramento
-
-* Logs
-* Métricas
-* Monitoramento de APIs
-* Monitoramento de servidores
-* Alertas
-* Rastreamento de erros
-* Monitoramento de performance
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js">
+</p>
 
 ---
 
-# 🛠️ Serviços
+## 🛠️ Serviços
 
-<div align="center">
-
-|      🌐 Websites     |    📱 Aplicativos   |      ⚙️ Sistemas      |
-| :------------------: | :-----------------: | :-------------------: |
-|  Sites profissionais |     Apps Android    |      Sistemas Web     |
-|     Landing Pages    |  Aplicações Mobile  | Sistemas Empresariais |
-| Sites institucionais | Interfaces modernas |       Dashboards      |
-
-</div>
-
-### 🔧 Outras Tecnologias
-
-<div align="center">
-
-**C++**   •   **Flutter**   •   **Netlify**   •   **Git**   •   **GitHub**   •   **Docker**
-
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="55" height="55" alt="Netlify">
+</p>
 
 ---
 
-# 📦 O Que Desenvolvemos
+## 🌐 O que Desenvolvemos
 
-<div align="center">
-
-| Categoria             | Soluções                                       |
-| :-------------------- | :--------------------------------------------- |
-| 🌐 **Web**            | Websites, Landing Pages e Portais              |
-| 🛒 **E-commerce**     | Lojas virtuais e plataformas de vendas         |
-| 📊 **Sistemas**       | Sistemas administrativos e empresariais        |
-| 📱 **Mobile**         | Aplicativos Android e soluções multiplataforma |
-| 🎨 **UI/UX**          | Interfaces modernas e experiências intuitivas  |
-| 🔌 **Backend**        | APIs, bancos de dados e integrações            |
-| ☁️ **Cloud & Deploy** | Hospedagem, publicação e gerenciamento         |
-| 🔄 **Tempo Real**     | Sistemas com sincronização de dados            |
-| 🔐 **Segurança**      | Autenticação, permissões e proteção de dados   |
-| 📈 **Dashboards**     | Painéis administrativos e indicadores          |
-| 🔗 **Integrações**    | APIs, Webhooks e serviços externos             |
-
-</div>
+| Serviço                   | Descrição                                  |
+| ------------------------- | ------------------------------------------ |
+| 🌐 Websites               | Sites institucionais e profissionais       |
+| 🛒 E-commerce             | Lojas virtuais completas                   |
+| 📊 Sistemas Web           | Sistemas administrativos e empresariais    |
+| 📱 Aplicativos            | Aplicações para dispositivos móveis        |
+| 🎨 UI/UX                  | Interfaces modernas e intuitivas           |
+| ⚙️ Backend                | APIs, bancos de dados e serviços           |
+| 🔄 Sistemas em Tempo Real | Sincronização de informações em tempo real |
+| ☁️ Deploy                 | Publicação e gerenciamento de aplicações   |
 
 ---
 
-# 📱 Desenvolvimento Multiplataforma
+## 📱 Desenvolvimento Multiplataforma
 
-Criamos aplicações preparadas para diferentes ambientes, dispositivos e tamanhos de tela.
+Trabalhamos com tecnologias modernas para desenvolver soluções compatíveis com diferentes dispositivos.
 
-<div align="center">
-
-**🤖 Android**
-**🪟 Windows**
-**🌐 Web**
-**📱 Mobile**
-**☁️ Cloud**
-**🔄 Sistemas em Tempo Real**
-
-</div>
-
----
-
-# ✨ Nosso Diferencial
-
-<div align="center">
-
-|          ⚡ Performance          |          🔒 Segurança          |        📱 Responsividade        |
-| :-----------------------------: | :----------------------------: | :-----------------------------: |
-| Aplicações rápidas e eficientes | Proteção e segurança dos dados | Experiência em diferentes telas |
-
-|              🎨 Design              |         🚀 Escalabilidade        |           🔄 Integração          |
-| :---------------------------------: | :------------------------------: | :------------------------------: |
-| Interfaces modernas e profissionais | Projetos preparados para crescer | Sistemas conectados e integrados |
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65" alt="Flutter">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" alt="Android">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65" alt="Windows">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" alt="JavaScript">
+</p>
 
 ---
 
-# 📊 GitHub
+## 📈 Nossa Proposta
 
-<div align="center">
+Criar soluções digitais que sejam:
 
-### Estatísticas
-
-<!-- COLOQUE SUA IMAGEM/ESTATÍSTICAS AQUI -->
-
-<br>
-
-### Principais Tecnologias
-
-<!-- COLOQUE SUA IMAGEM DE LINGUAGENS AQUI -->
-
-</div>
+* ⚡ Rápidas
+* 🔒 Seguras
+* 📱 Responsivas
+* 🎨 Modernas
+* 🚀 Escaláveis
+* 💡 Fáceis de utilizar
+* 🔄 Integradas e preparadas para tempo real
 
 ---
 
-# 🌎 Nossa Visão
+## 📊 GitHub
 
-<div align="center">
-
-> ### **Tecnologia não precisa ser complicada.**
-
-Criamos soluções digitais pensadas para serem:
-
-**Simples • Bonitas • Rápidas • Seguras • Eficientes**
-
-<br>
-
-**Nosso objetivo é utilizar a tecnologia para tornar negócios mais modernos, conectados e eficientes.**
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MKATIVA&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub">
+</p>
 
 ---
 
-# 📌 Projetos
+## 📌 Projetos
 
-<div align="center">
+Estamos constantemente desenvolvendo novos projetos e soluções para empresas, profissionais e empreendedores.
 
-### 🚧 Em constante desenvolvimento
-
-Novos projetos, sistemas e soluções digitais estão sendo desenvolvidos pela **Mundo dos Sites**.
-
-**Em breve, novos projetos serão apresentados aqui.**
-
-</div>
+<p align="center">
+  <strong>Transformamos ideias em tecnologia.</strong>
+</p>
 
 ---
 
-# 📞 Entre em Contato
+## 🌐 Entre em Contato
 
-<div align="center">
+<p align="center">
 
-**🌐 Website**
-SEU_SITE_AQUI
+  <a href="https://mundodossitesoficial.netlify.app">
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 
-**📸 Instagram**
-SEU_INSTAGRAM_AQUI
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 
-**▶️ YouTube**
-SEU_YOUTUBE_AQUI
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
 
-**📘 Facebook**
-SEU_FACEBOOK_AQUI
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 
-</div>
-
----
-
-<div align="center">
-
-# 🌐 MUNDO DOS SITES
-
-### Desenvolvendo o futuro através da tecnologia.
-
-<br>
-
-**Web • Software • Mobile • Backend • Cloud**
-
-</div>
+</p>
 
 ---
 
 ## 📄 Licença
 
-Este projeto está disponibilizado sob a **Licença MIT**.
+Este projeto está licenciado sob a licença **MIT**.
 
-<div align="center">
-
-`MIT License`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+</p>
 
 ---
 
-<div align="center">
-
-**© Mundo dos Sites**
-
-<sub>Desenvolvimento de soluções digitais modernas.</sub>
-
-</div>
+<p align="center">
+  <strong>🌐 Mundo dos Sites</strong><br>
+  <sub>Desenvolvendo o futuro através da tecnologia.</sub>
+</p>
